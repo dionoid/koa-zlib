@@ -1,7 +1,7 @@
 koa-zlib
 ===========
 
-Very simple wrapper to node's built-in zlib library for use in koa.\n
+Very simple wrapper to node's built-in zlib library for use in koa.  
 By 'thunkifying' zlib's convenience methods, they can be 'yielded' inside koa generator functions.
 
 
@@ -36,5 +36,4 @@ app.use(function *() {
 });
 
 app.listen(process.env.PORT || 8080);
-
 ```
