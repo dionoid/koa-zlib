@@ -2,7 +2,7 @@ koa-zlib
 ===========
 
 Very simple wrapper to node's built-in zlib library for use in koa.  
-By 'thunkifying' zlib's convenience methods, they can be 'yielded' inside koa generator functions.
+By using these 'thunkified' wrappers to zlib's convenience methods, they can be 'yielded' inside koa generator functions.
 
 
 To install simply run:
