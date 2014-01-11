@@ -1,6 +1,6 @@
 
 /*
-  Simple wrapper of node's internal zlib library
+  Simple wrapper to node's internal zlib library
   http://nodejs.org/api/zlib.html
   For use in Koa.
 */
